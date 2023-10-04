@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled binaries
+*.exe
+*.o
+
+# Ignore Mac and Linux system files
+.DS_Store
+Thumbs.db
